@@ -1,0 +1,352 @@
+{
+  "quizzes": [
+    {
+      "title": "Tarix",
+      "color": "#FFF1E9",
+      "icon": "./assets/icon-html.svg",
+      "questions": [
+        {
+          "question": "1868-yilda tashkil etilgan Turkiston viloyati qaysi hudud tarkibiga kiritilgan edi?",
+          "options": [
+            "Turkiston general-gubernatorligi",
+            "Sirdaryo viloyati",
+            "Rossiya imperiyasi",
+            "Orenburg general-gubertanorligi"
+          ],
+          "answer": "Orenburg general-gubertanorligi"
+        },
+        {
+          "question": "Turkistonning qaysi o'lkasida istiqlolchilik harakati abj olgan?",
+          "options": [
+            "Xorazm viloyati",
+            "Farg'ona viloyati",
+            "Jizzax vloyati",
+            "Samarqand viloyati"
+          ],
+          "answer": "Farg'ona viloyati"
+        },
+        {
+          "question": "O'zbekiston Ikkinchi jahon urushi qatnashchilarining ayrimlariga to'la jihozlangan uylar , Haj ziyoratiga bepul borish va navbatsiz avtomobil sotib olish imtiyozlari berilgan yilni aniqlang?",
+          "options": ["2017-yil", "2016-yil", "20115-yil", "2018-yil"],
+          "answer": "2017-yil"
+        },
+        {
+          "question": "2011-yilda Qozog'iztonda  ...  namoyishlari bo'lib o'tgan.",
+          "options": [
+            "Neftchilarning",
+            "Tibbiyot xodimlarining",
+            "O'qituvchilarning",
+            "Ishchilarning"
+          ],
+          "answer": "O'qituvchilarning"
+        },
+        {
+          "question": "Germaniyadi  Veymer Respublikasi boshqaruvi  tugatilgan yilni aniqlang.",
+          "options": ["1939-yil", "1923-yil", "1934-yil", "1945-yil"],
+          "answer": "1945-yil"
+        },
+        {
+          "question": "XIX asr o'rtalarida Xiva xonligining aholisi sinini aniqlang.",
+          "options": [
+            "2 million kishi atrofida",
+            "1 millon 30 ming kishi",
+            "800 ming kishi",
+            "1 million kishi"
+          ],
+          "answer": "1 million kishi"
+        },
+        {
+          "question": "O'zbekiston Respublikasida 14-yanvar <<Vatan himoyachilari kuni>>  qachon e'lon qilingan?",
+          "options": ["1992-yil", "1993-yil", "1990-yil", "1991-yil"],
+          "answer": "1993-yil"
+        },
+        {
+          "question": "Shengen shahri qaysi mamlakatda joylashgan ?",
+          "options": ["Fransiya", "Shveytsariya", "Avstriya", "Lyuksemburg"],
+          "answer": "Lyuksemburg"
+        },
+        {
+          "question": "Tashqi siyosatda 1932-yil Millatlar Ligasiga a'zo bo'lgan hamda barcha davlatlar bilan do'stona munosabatlar qurushga harakat qilgan davlatni aniqlang?",
+          "options": ["Eron", "Hindiston", "Turkiya", "Misr"],
+          "answer": "Turkiya"
+        },
+        {
+          "question": "O'zbekiston Respublikasida qaysi partiya ijtimoiy masalalarni hal etishni o'z maqsadi deb biladi?",
+          "options": ["O'zXDP", "Adolat", "O'zLiDep", "Milliy tiklanish"],
+          "answer": "Adolat"
+        }
+      ]
+    },
+    {
+      "title": "Geografiya",
+      "color": "#E0FDEF",
+      "icon": "./assets/icon-css.svg",
+      "questions": [
+        {
+          "question": "Kanadaning poytaxti nima?",
+          "options": ["Ottava", "Toronto", "Canada", "Montreal"],
+          "answer": "Ottava"
+        },
+        {
+          "question": "Aholi eng ko'p Afrika davlati qaysi? ",
+          "options": ["Mali", "Ghana", "Nigeria", "Benin"],
+          "answer": "Nigeria"
+        },
+        {
+          "question": "Afrikadagi eng uzun daryo nima deb ataladi?",
+          "options": ["Kongo", "Nil", "Orange", "Zambezi "],
+          "answer": "Nil"
+        },
+        {
+          "question": "Avstraliyada nechta vaqt zonalari mavjud?",
+          "options": ["2", "5", "4", "3"],
+          "answer": "3"
+        },
+        {
+          "question": "Dunyodagi eng katta davlatning nomi nima?",
+          "options": ["Rusia", "India", "China", "Japon"],
+          "answer": "Rusia"
+        },
+        {
+          "question": "Buyuk Giza piramidalari qaysi davlatda joylashgan?",
+          "options": ["Italy", "Egypt", "Spain", "Yunanistan"],
+          "answer": "Egypt"
+        },
+        {
+          "question": "Amerika Qo'shma Shtatlari nechta shtatdan iborat?",
+          "options": ["45", "47", "52", "50"],
+          "answer": "50"
+        },
+        {
+          "question": "Buyuk Britaniya bilan chegaradosh yagona davlat qaysi?",
+          "options": ["Ireland", "Russia", "Sweden", "India"],
+          "answer": "Ireland"
+        },
+        {
+          "question": "Dunyodagi eng baland daraxtlarni AQShning qaysi shtatida topish mumkin? ",
+          "options": ["Florida", "Texas", "California", "Virgina"],
+          "answer": "California"
+        },
+        {
+          "question": "Missisipi daryosi nechta shtatdan o'tadi?",
+          "options": ["28", "31", "34", "25"],
+          "answer": "31"
+        }
+      ]
+    },
+    {
+      "title": "Biologiya",
+      "color": "#EBF0FF",
+      "icon": "./assets/icon-javascript.svg",
+      "questions": [
+        {
+          "question": "Quyidagi qaysi fikr  to’g’ri fikrni inkor etmaydi?",
+          "options": [
+            "Maltoza urug’lanayotgan urug’ uchun energiya manbayi ",
+            "Oltingugurt oqsillarning ikkilamchi strukturasida  disulfid bog’ hosil qiladi ",
+            "Geparin hayvonlarda qon ivishiga to’sqinlik qilmaydi ",
+            "Glukozaning asosiy manbayi bo’lgan uglevod sutda uchramaydi"
+          ],
+          "answer": "Glukozaning asosiy manbayi bo’lgan uglevod sutda uchramaydi"
+        },
+        {
+          "question": "C12H22O11 tarkibga ega moddaga xos bo’lmagan xususiyatni toping.",
+          "options": [
+            "Organizmda kechadigan ko’pgina jarayonlar uchun energiya manbayi",
+            "Uning tarkibidagi uglevodlar o’zaro glikozid bog’lar orqali bog’lanadi ",
+            "Suvda yaxshi eriydi, shirin ta’mga ega ",
+            "O’simlik hujayralari qobig’iga mustahkamlik beradi"
+          ],
+          "answer": "O’simlik hujayralari qobig’iga mustahkamlik beradi"
+        },
+        {
+          "question": "Tiriklikning eng yuqori tuzilish darajasiga xos bo’lmagan ma’lumotni to’g’ri ko’rsating.",
+          "options": [
+            "Asosiy komponentlarining elementar birligi bir xil turlarga mansub populyatsiyalardir ",
+            "Global davriy aylanish",
+            "Yerdagi barcha ko’rinishlarini qamrab olgan",
+            "To’g’ri javob yo’q"
+          ],
+          "answer": "Asosiy komponentlarining elementar birligi bir xil turlarga mansub populyatsiyalardir"
+        },
+        {
+          "question": "Bionika bu …?",
+          "options": [
+            "organizmlar hayot faoliyatining o’ziga xos jihatlari va tuzilishini asos qilib, texnik sistemalar yaratishni",
+            "organizmlar hayot faoliyatining o’ziga xos jihatlari va tuzilishini asos qilib, biologik sistemalar yaratishni",
+            "anorganik tabiat  faoliyatining o’ziga xos jihatlari va tuzilishini asos qilib, fizik sistemalar yaratishni",
+            "anorganik tabiat  faoliyatining o’ziga xos jihatlari va tuzilishini asos qilib, fizik va biologik sistemalar yaratish"
+          ],
+          "answer": "organizmlar hayot faoliyatining o’ziga xos jihatlari va tuzilishini asos qilib, texnik sistemalar yaratishni"
+        },
+        {
+          "question": "Quyidagi fikrlarning qaysi biri gidrofob moddalar uchun xos emas? ",
+          "options": [
+            " O’simlik to’qimalarida zahira modda sifatida to’planadi ",
+            " Hayvon to’qimalarida zahira modda sifatida to’planadi",
+            " Issiqlikni yomon o’tkazadi",
+            " Unayotgan urug’ uchun energiya beradi"
+          ],
+          "answer": " Unayotgan urug’ uchun energiya beradi"
+        },
+        {
+          "question": " Umurtqasizlar qonidagi gemosianin tarkibida kislorod tashish funksiyasini bajaruvchi elementga xos bo’lgan ma’lumotl?",
+          "options": [
+            "fermentlar tarkibida uchramaydi",
+            "1,9 foizni tashkil etmaydi ",
+            "temir bilan o’xshash funksiya bajarmaydi",
+            "uchrash miqdoriga ko’ra F bilan bir guruhga kirmaydi"
+          ],
+          "answer": "1,9 foizni tashkil etmaydi "
+        },
+        {
+          "question": "O’xshash hujayralar va hujayralararo moddalardan tashkil topgan biotizmga xos xususiyat ?    ",
+          "options": [
+            "aniq bir joyda joylashadi ",
+            "yaxlit biologik tizim ",
+            "energiyaning to’planishi va sarflanishi sodir bo’ladi",
+            "hujayralar ixtisoslashuvi kuzatiladi"
+          ],
+          "answer": "hujayralar ixtisoslashuvi kuzatiladi"
+        },
+        {
+          "question": "Fikrni davom ettiring.Tashqi muhit sharoitlarining muntazam o’zgarishlariga qaramay, tirik organizmlar tashqi va ichki tuzilishi, kimyoviy tarkibi, fiziologik jarayonlarning  doimiyligini saqlash, ya’ni ….  ",
+          "options": [
+            "ta’sirlanish",
+            "o’zgaruvchanlik",
+            "gomeostaz",
+            "o’z-o’zini idora qilish  "
+          ],
+          "answer": "gomeostaz"
+        },
+        {
+          "question": "Aktimiozin nima?",
+          "options": [
+            "monosaxarid va oqsil kompleksi",
+            "ikki xil uglevod ",
+            "kki xil oqsil kompleksi",
+            "disaxarid va oqsil kompleksi "
+          ],
+          "answer": "kki xil oqsil kompleksi"
+        },
+        {
+          "question": "Qaysi holatda irsiy axborotning nasldan naslga o’tishi xatosiz  ro’y beradi?",
+          "options": [
+            "nukleotidlar ketma-ketligi saqlangan holatda ",
+            "nukleotidlar ketma-ketligi saqlanmagan holatda",
+            "RNK bilan bog’liq",
+            "mutatsion o’zgaruvchanlik bilan "
+          ],
+          "answer": "nukleotidlar ketma-ketligi saqlangan holatda "
+        }
+      ]
+    },
+    {
+      "title": "Boshqa savollar.",
+      "color": "#F6E7FF",
+      "icon": "./assets/icon-accessibility.svg",
+      "questions": [
+        {
+          "question": "Besh tomoni bo'lgan shakl turini nima deb ataysiz?",
+          "options": [
+            "Paralllelogram",
+            "Pentagon",
+            "Hexagon",
+            "Octagon"
+          ],
+          "answer": "Pentagon"
+        },
+        {
+          "question": "Yer yuzidagi eng sovuq joy qaysi?",
+          "options": [
+            "Sharqiy Antarktida",
+            "Sharqiy Urali",
+            "Sharqiy Afrika",
+            "Sharqiy Artika"
+          ],
+          "answer": "Sharqiy Antarktida"
+        },
+        {
+          "question": "Eng qadimiy Piramida qayerda joylashgan?",
+          "options": [
+            "Egypt",
+            "Italy",
+            "Spain",
+            "Germany"
+          ],
+          "answer": "Egypt"
+        },
+        {
+          "question": " Er yuzidagi eng qattiq modda qaysi?",
+          "options": [
+            "Granit",
+            "Imperial",
+            "Padparaja",
+            "Olmos"
+          ],
+          "answer": "Olmos"
+        },
+        {
+          "question": " Professional futbol jamoasida qancha futbolchilar bor?",
+          "options": [
+            "12",
+            "11",
+            "9",
+            "10"
+          ],
+          "answer": "11"
+        },
+        {
+          "question": "Dunyoda eng ko'p gapiriladigan til qaysi?",
+          "options": [
+            "English",
+            "French",
+            "Chines",
+            "Spanish"
+          ],
+          "answer": "Chines"
+        },
+        {
+          "question": "Dunyodagi eng katta yomg'ir o'rmonining nomi nima?",
+          "options": [
+            "Amazon",
+            "Titan",
+            "Giant Squid",
+            "Giant Sea Turtle"
+          ],
+          "answer": "Amazon"
+        },
+        {
+          "question": "Dunyodagi eng katta sut emizuvchi hayvon qaysi?",
+          "options": [
+            "Fil",
+            "Tuya",
+            "Kit",
+            "Oq ayiq"
+          ],
+          "answer": "Kit"
+        },
+        {
+          "question": "Birinchi jahon urushi qaysi yilda boshlangan?",
+          "options": [
+            "1923",
+            "1914",
+            "1912",
+            "1916"
+          ],
+          "answer": "1914"
+        },
+        {
+          "question": " Yerdagi eng katta okean qaysi?",
+          "options": [
+            "Tinch okeani",
+            "Hind okeani",
+            "Atlantika okeani",
+            "Shimoliy muz okeani"
+          ],
+          "answer": "Tinch okeani"
+        }
+      ]
+    }
+  ]
+}
